@@ -1,0 +1,5 @@
+sqlalchemy
+streamlit
+python-dotenv
+mysql-connector-python
+pandas
